@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Behave</string>
+
+    <string name="redeem">Redeem</string>
+
+    <string name="redeemReturn">redeem return</string>
+    <string name="title_activity_prize_list">prizeList</string>
+    <string name="title_activity_redeem_notification">redeemNotification</string>
+</resources>
