@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1010679816661",
+    "firebase_url": "https://beyondtinnitus-340f1.firebaseio.com",
+    "project_id": "beyondtinnitus-340f1",
+    "storage_bucket": "beyondtinnitus-340f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010679816661:android:4a4e26d8ed570bfd",
+        "android_client_info": {
+          "package_name": "behave.behave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010679816661-71p12fcd02c2c0tp1vvtbf1vkj4bp5rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtiklKDl1Zj-YF5pKw0hEVglqAaHJaZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
